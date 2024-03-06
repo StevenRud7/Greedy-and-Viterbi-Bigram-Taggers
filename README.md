@@ -1,6 +1,6 @@
 # Greedy-and-Viterbi-Bigram-Taggers
 
-Natural Language Processing Project working on taggers and utilized the Greedy Algorithm and Viterbi Algorithm for Bigram Tagging.
+Natural Language Processing Project worked on taggers and utilized the Greedy Algorithm and Viterbi Algorithm for Bigram Tagging.
 
 Adapted from Brandeis University COSI 114a by Professor Constantine Lignos.
 
